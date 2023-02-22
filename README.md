@@ -50,10 +50,13 @@ palabra no debe repetirse
 
 ### Tecnologias utilizadas:
 ● React V 17.0.2
+
 ● Typescript V 4.5.4
+
 ● TailwindCSS V 3.0.12
 
 ### Notas:
 ● Subir código a un repositorio git y compartir enlace
+
 ● Esta prueba tiene una duración de 2 días
     
