@@ -1,4 +1,4 @@
-# React Wordle
+# Tests REACT GAME WORDLE
 
 Prueba para DD360 de Carlos Bautista!
 
